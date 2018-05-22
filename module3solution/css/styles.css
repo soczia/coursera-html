@@ -31,3 +31,9 @@
     border: 2px solid #d1d5da;
     background-color: #d1d5da;
 }
+
+@media (max-width: 767px) {
+  .container {
+    width: 85%;
+  }
+}
