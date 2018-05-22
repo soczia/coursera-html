@@ -1,0 +1,33 @@
+.category-tile {
+  background-color: #d1d5da
+}
+
+.category-tile h3 {
+  padding-top: 10px;
+}
+
+.category-tile div {
+  margin: 15px 15px 15px 15px;
+  padding-bottom: 10px;
+}
+.navbar-brand h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand p span { /* Star-K */
+  vertical-align: middle;
+}
+
+#nav-list a {
+    color: #951C49;
+    text-align: center;
+    border: 1px solid #d1d5da;
+    background-color: #f1f8ff;
+}
+
+#nav-list a:hover {
+    border: 2px solid #d1d5da;
+    background-color: #d1d5da;
+}
